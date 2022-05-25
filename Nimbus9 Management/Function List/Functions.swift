@@ -77,6 +77,5 @@ class Functions: UIViewController{
         cButton.isEnabled = false
         cButton.setTitleColor(.lightGray, for: .disabled)
     }
-    
-    
+        
 }
